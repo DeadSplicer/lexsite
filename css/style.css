@@ -1,0 +1,101 @@
+
+  div{
+    margin-bottom: 0px;
+  }
+
+  body{
+    background-color: #FCFCF7;
+  }
+
+  .jumbotron{
+
+  }
+
+  h1{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+
+  }
+  h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 17px;
+    color: white;
+  }
+  h3{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    margin-left: 12px;
+    font-size: 17px;
+    color: black;
+  }
+  .description{
+    text-align: left;
+    font-size: 15px;
+    color: gray;
+  }
+  .button_font{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 13px;
+    color: white;
+    margin-left: 15px;
+  }
+  p{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    margin: auto;
+    font-size: 40px;
+  }
+
+    /*.box-one{
+      border-style: solid;
+      opacity: 40%;
+      border-top-color: transparent;
+      border-right-color: transparent;
+      border-left-color: transparent;
+      border-bottom-color: gray;
+      padding-bottom: 0px;
+    }
+    .box-two{
+      border-style: hidden;
+      padding-top: 0px;
+    }*/
+    .box-one{
+      border-style: hidden;
+      padding-top: 0px;
+      text-align: center;
+    }
+    .box-two{
+      border-style: hidden;
+      padding: 0px;
+      margin-top: 5px;
+      background-color: #E2E2DE;
+    }
+
+    /*blue bottom box*/
+    .box-three{
+      border-style: hidden;
+      padding: 100px;
+      margin-top: 0px;
+      background-color: #0000A3;
+    }
+
+
+    .button{
+      background-color: #E2E2DE;
+      border: none;
+      color: black;
+      padding: 6px 28px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 1px 0px;
+      cursor: pointer;
+    }
+    .button:hover{
+      background-color: #000000;
+      color: white;
+    }
